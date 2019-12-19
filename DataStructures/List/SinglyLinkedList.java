@@ -1,5 +1,5 @@
 package DataStructures.List;
-//My algorithms test code base on the work of [TheAlgorithms/Java][https://github.com/TheAlgorithms/Java]
+
 /**
  * 这个类文件实现了一个单链表。
  *
